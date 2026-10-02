@@ -1,0 +1,2 @@
+ctrlchars
+€ÿ high bytes

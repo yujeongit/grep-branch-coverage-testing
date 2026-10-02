@@ -1,0 +1,39 @@
+hello world
+Hello World
+HELLO WORLD
+vanilla icecream
+strawberry cake
+chocolatea
+vanilla
+vanilla latte
+need
+need coffee
+yummy yummy
+wowwowwow
+VANILLA
+strawberry
+choco
+123
+0123456789
+3.14159 2.71828
+[0-9]
+^hello
+world$
+the word is word
+foo_bar baz-qux
+tab	separated	values
+  leading spaces
+trailing spaces   
+MiXeD CaSe LiNe
+a+b=c; (x*y) {z} |pipe| ?q
+back\slash and /slash/
+!@#$%^&*()_+-=[]{};':",./<>?
+email: 2376217@ewja.ac.kr
+https://ewha.ac.kr/ewha/index.do
+deadbeef CAFEBABE 0xFF
+abcabcabc
+the the quick brown fox fox
+level racecar noon
+aXbXcXdXe
+
+end of file

@@ -1,0 +1,902 @@
+hello world
+babababbbbaabbbbababbbababbbbabbababababaaabba
+Hello World
+bbaabaaabbbaababbaabababaababbbbbbaaa
+HELLO WORLD
+baaabbbbaabaabb
+vanilla icecream
+ababaabbbbbbaaaabbbbbbbbabaabaabbaa
+strawberry cake
+abbabababbaab
+chocolatea
+aaaaabaababbbbbaaabbaababaa
+ab
+bababaaaaabaababaababaabbabbbbbbbaaaabbabaabaabaaaaaaaaaabb
+abc
+aaaaabbabbaaabbbbaaaababbbbbabbabababaaaabbaabaabaabba
+abcd
+abaaabbabbbbabbaaaaababbaaab
+abab abab
+baaaabaabaaaabbabbbbaabbaabbabbbbabaabbbbaabaaabbabbaabbaaa
+aaaa bbbb
+abbbaabbbbbbba
+xyzzy xyzzy
+abbabbabbaaaabbabbbbbbabbaaaabbaabaaabaaaaaabaabbbbabaabbb
+vanilla
+abbababaaaaaaaabaaaaabbaaabbaaabbaabbbbbbbaabbabaaabbbbbb
+VANILLA
+aaaaababbbbabaaabbaaaabbbaaaaaaabbbbabaaaabaaabaabb
+strawberry
+abaabbbbbabaabbbababbbbbaabbbabbabaabaaabaabbabaaabaaaaaab
+choco
+baabbabbab
+123
+bbbbabbbaaaaaaababbaaabbaaaabbabbabbaaaaaaabaa
+0123456789
+abbbabbaaaabbbbbaabbaaabbbaabbabab
+3.14159 2.71828
+abababbaaaaaabab
+[0-9]
+baabbbbbabbabaabbabbaaababab
+^hello
+bbbaabbbbbbabaaabaabbaaaabbabbbbbabaaabaabbab
+world$
+abbbabbaababa
+the word is word
+baaabbaabaabaabbbaabaabbbababbababababbbabaaabaa
+foo_bar baz-qux
+babbbbaaaabbbabbbaaaaa
+tab	separated	values
+bababbbbabbabababa
+  leading spaces
+aabbabaaaaabaabaaaaaaaaab
+trailing spaces   
+bbabaabaabaaabaabbaaabbbbaabbbabaaabbaaabaabbaaba
+MiXeD CaSe LiNe
+abababaabbabbabbaaaababbabbabbbaababaabaaababaababa
+a+b=c; (x*y) {z} |pipe| ?q
+abbabaaabbbbbabaaabbbabbbaaa
+back\slash and /slash/
+baabababaabababbabbbaabaaabbaaabaabb
+!@#$%^&*()_+-=[]{};':",./<>?
+aababbbababbbbababbaabaabbbbbabbaabbaaaabbaabaabab
+email: user@example.com
+babababbababbaaabbaabbbbbaaaabbaabaaab
+http://www.example.org/path?x=1&y=2
+babbaaabbaaaaba
+deadbeef CAFEBABE 0xFF
+babbbbbbbbbbabbaaaaaaabbaabababaaababbababbabb
+abcabcabc
+abbbabbabbbbaaababbabbbababababbbb
+the the quick brown fox fox
+abaababababba
+level racecar noon
+babaaaababbaaababbbaaa
+aXbXcXdXe
+aabbbaababbbaaa
+
+aaabaaaabaabbbbabaabbbbbaaaaabbbbaaabbaabaaab
+end of file
+abbbabaabbbabbbbbabaaaabbbabbaaaabbba
+hello world
+aaabbabaaaaabab
+Hello World
+abababaabbbbbbbabbbabaabababbb
+HELLO WORLD
+bbbabababbabaa
+vanilla icecream
+abaaaabbbabbbbbaabbbbaaababbbaaaaababbbbab
+strawberry cake
+abbabaaabbaaabbbbbabaaabaaabbabbbbaaa
+chocolatea
+bbbbbbaabbbaaabbabbabaaaabbabba
+ab
+aababaabaaababbabbbbaabbaabaababbababbb
+abc
+aababababaaaabaab
+abcd
+baaaaaaaaabbbaa
+abab abab
+baaaabbaaabbabab
+aaaa bbbb
+babaabbabaabbbababbbabaaaabaababaababbbaabbaaababbbbbbbbbbab
+xyzzy xyzzy
+abbaabbbbabaababbbaabaabbbaaabababbbbaaabbbab
+vanilla
+babaaaababbbabaabbaababbbbbaaabaaabbbbaa
+VANILLA
+babaababbbabbbabaabaaab
+strawberry
+bbaabaabababaabaabaaabbaababbbbbbaaabaaaa
+choco
+bbbaabbbbabbaaaaababababbbb
+123
+abaababaaaaabbba
+0123456789
+abbbaabbaababaaabababbaaabababbaaaabbabbaaba
+3.14159 2.71828
+bbbbbaabbbabbbbaaaababaaabbbbabbbaabbabbbbaaa
+[0-9]
+baabbabaaabbbabbbabaabbbaababbabaaaabbabab
+^hello
+aabbbaaabbaabaabababbaba
+world$
+bbabbabbbabbbbbabbabbaabaabbbaba
+the word is word
+babbbbbbaaababbb
+foo_bar baz-qux
+bbabbaaababaaabbaaabbbbaaababbbbbaaaababbababaabaaaaba
+tab	separated	values
+bbbbbababaabbaaaabbbbaaabababa
+  leading spaces
+ababbbaaabbabaababaaabbaaabbababbbaaaaababb
+trailing spaces   
+aaaaabbaabaabbaaabbbbaababbbbaaabbababa
+MiXeD CaSe LiNe
+abaabaababbabbba
+a+b=c; (x*y) {z} |pipe| ?q
+bbabbbbbbaaabba
+back\slash and /slash/
+abbaaaabbbbbbbab
+!@#$%^&*()_+-=[]{};':",./<>?
+baabbabaaabaaabaabbbbabaaaabaaabbbbabbbaabaabbbabbbbabbbaa
+email: user@example.com
+bbababbbbabbaaabaaaabb
+http://www.example.org/path?x=1&y=2
+aababbbbbaababbbbbbbbababaaaa
+deadbeef CAFEBABE 0xFF
+bbbabbbaaaaaaaaaabb
+abcabcabc
+bababbaaabbbaaabbabbabaabbaabaaabbbaababaaaaaabababbaaaabaa
+the the quick brown fox fox
+abbaaaaabababbbaababbbabbbabbbbbbaaaaabbbbabbba
+level racecar noon
+bbbbabbbbbabbbbaaa
+aXbXcXdXe
+abbaababbaaaabbaaaabaa
+
+ababbabbaaabbbaaaaabaabbbbaaaaabbabbaaaaababbbaabbaabbaabaa
+end of file
+aaaabbbabbbabbabbbbaababba
+hello world
+aabbaababbabbbababbabbaaabaaabababaaaaabbbba
+Hello World
+ababbabaaabaabaabbababababbabaabbbbbbaabababbbaaabbaaaa
+HELLO WORLD
+abbaaaabbaaaabbbabaaabaaabaabaababbaabaaaaabaaabaabbbbbbaba
+vanilla icecream
+baabaabaabbabbbbbbbababbabbbabbabaabb
+strawberry cake
+bbaaaaaaaaaaabbaababaabbabbbba
+chocolatea
+abbbbbaaaaaaabaabaaaabbbbabbbaaab
+ab
+bbbbababbbaaaabaabbabaabbbbbbbaabbaaaabaabaaaababbaaabbbabbb
+abc
+abbbabbbbababbbabaababbaa
+abcd
+abaabbabbbababbbbababaabbbaabaabaaaabaaabababbbbabbabbbabbb
+abab abab
+aabaabaabbbababbbaabaaaaaaaaaabbbaabbbbbbababaaaaaa
+aaaa bbbb
+abaaabbbbaabaaabaaaaabbbaaaaabbbabbbabaaabbaaababbbbaabbabbb
+xyzzy xyzzy
+babaabababbbbabaabb
+vanilla
+abbbabbababbbbabbaaaabbabbbaaabaaabbaaaabbbaabbaaaaabbb
+VANILLA
+baabbabaababbbabaabbbabaaaaaaabbababaaabaabbaaaaaaabbbbaabaa
+strawberry
+bbbbbbbabbabbbaaaabaaaaaaaabaaaabbbbabbbbaba
+choco
+abbbbbabaaabbaaabaaabaa
+123
+baabababababbaaabaaaaaaababbbaabbbbaab
+0123456789
+bbbbaababaaabbabbaaa
+3.14159 2.71828
+baabbbababbabababaababbbbbaababbb
+[0-9]
+baabbaabbbaaaababaabaababbabbbbabababbbbbaaaaaabbbaab
+^hello
+aabaaaaababaabbbbbbaabbbbaaabaaaaa
+world$
+babababbbbabaaaababbaabbbbbabaaabbabbbaaabbbbbbababaababa
+the word is word
+babbbbabaababbbabbaabaaaaabbaabaa
+foo_bar baz-qux
+babbabaaababaaababbababbba
+tab	separated	values
+aabbbaaaaab
+  leading spaces
+babbbbbbaabbaabaaaaabbabbabababbbb
+trailing spaces   
+babbbaaababaaaaaaaabaaaabbaaabababbababbababbbbaabb
+MiXeD CaSe LiNe
+bbbaabaabbbababaabbbbabbbba
+a+b=c; (x*y) {z} |pipe| ?q
+aabbbbbabaababbbbabbbaabababbaabbabbaabbabbbaabb
+back\slash and /slash/
+babbababaabaabbaaabaabbbbaababbaababbbbbbbbaaabbaaaba
+!@#$%^&*()_+-=[]{};':",./<>?
+aabaaaababbbbbaabbbbbabaababbbb
+email: user@example.com
+ababbbabbaababbbaabb
+http://www.example.org/path?x=1&y=2
+aaaaabbbbbababaaaabbbabbabbabbaabbababbaaababa
+deadbeef CAFEBABE 0xFF
+abbaaabbbaaaabbabbabababababbaabbabaabbbbbbabaabaabb
+abcabcabc
+baabbbabbbaabbbaaabb
+the the quick brown fox fox
+aaaabaabbbbbabab
+level racecar noon
+bbbaabbabbaabbaaaabbbbbbbaaaabbaabaabaaabaabab
+aXbXcXdXe
+aaaabaabaabababababaabaabbbbaaaabbbbbaabaabaaaabaaababbabbaa
+
+bbabbabaaaabbabaabbabaaaaababbbaaabbabbbb
+end of file
+aaabbaababbbbbabbbaaabbaababab
+hello world
+bbabbbaabbaababbbabbabaaaabbabbb
+Hello World
+babaaaabaabbababbabaabaaabba
+HELLO WORLD
+aabbbaabaaaabbbbaabaabaaababaaaabba
+vanilla icecream
+aaabbabbabbbababbabbbbbaaabbababbabaaabaabbbbbaaabbabbabbba
+strawberry cake
+aabaaababbaabbabababbbabaaaaaabbaabaaa
+chocolatea
+abbbabbabaabbabbbbabaabbbbaba
+ab
+baabbbababbbbbaab
+abc
+ababaaaaaaabbaaaababbaaababbb
+abcd
+abbbbaaaaababbbbabbabaaaabbbaaaa
+abab abab
+babbaabaababbbabbbbaab
+aaaa bbbb
+bbaababaaaaa
+xyzzy xyzzy
+babaabbaaba
+vanilla
+abaababbbbabaaaababbabbaaaababbbbaaa
+VANILLA
+bbbbabbaaaabbabaabbbbbbabababababaaaaaabababbaabbbababab
+strawberry
+aaaabbaabaaaaabaabbaaaabbbabbabbabba
+choco
+baabaabbbbabbaaaaabbababbabbbabaaaaaabaaaabbaaabbb
+123
+aabbaabbbbabbabaaaaba
+0123456789
+aababbaabbbbbaabbaabaaabbaabaaaabababbaaabbb
+3.14159 2.71828
+bbbaaaabaabaabbbabbaabababbaaabbababaabbaaaaabbaabb
+[0-9]
+aababbaabbaabba
+^hello
+bbbbaabbabaabababaabbaaabbabbbbbaabababba
+world$
+aaaababaabbabaabaabababaab
+the word is word
+bbaaabbabaaabbabbbbbaabbabbabbbabbbbabbbabbb
+foo_bar baz-qux
+bbabaabaaaaabaaaabbbbabaa
+tab	separated	values
+aaaaaaabaaaabaaabbaabbaababaaaaaababbbbbaabbbabbaaaabbaab
+  leading spaces
+bbaaaabbbbaaaabbaababbbaabbababbaaabbbaabbabbbaaabab
+trailing spaces   
+bbabaabaaaabaabbaaababbbbbabbbaababababbbbaabbbbabbbaabbab
+MiXeD CaSe LiNe
+baababbabbaaabbbaaabbbabababbaaaabbaabbbbaaabaabaaab
+a+b=c; (x*y) {z} |pipe| ?q
+baababbbbab
+back\slash and /slash/
+babbaababa
+!@#$%^&*()_+-=[]{};':",./<>?
+babaaaabaaaabababbababaaabaaabbbabbba
+email: user@example.com
+baababbbbabaabaa
+http://www.example.org/path?x=1&y=2
+aabbbaaaabbbabababbaaaaabbbaabaabbaaaabbaabbbbbaabaaa
+deadbeef CAFEBABE 0xFF
+bbaababaabbaababbbbbbabbaaabaababbbabab
+abcabcabc
+abbaaaaaaaaab
+the the quick brown fox fox
+bababbbbaaabbaaabababaaababaabbaaaabbbbbbabbaabbbbaaabbbbbab
+level racecar noon
+abbbbbbaaaaaabbababbaaababbaaabbaababbabaaabbbabbbbababbabb
+aXbXcXdXe
+aaabababababbbbababbbbbababbbabbbaa
+
+bbaaaaaaaaababaaaaaabbbaaabbaa
+end of file
+baaaababaaaababbbabaaaaabbbabb
+hello world
+aabaaabaaabbababbbabbaabaaabbbbaaaab
+Hello World
+bbaabaababbbaabaaaaabbbbbbbbaaaba
+HELLO WORLD
+babaaabaaaabaaababab
+vanilla icecream
+abbbabababbaaaababababaaaabaaabbbababbbbabaabaabbbabb
+strawberry cake
+bbbbbaabbaababaaaaaaaaabbbbbaababbaaababaabbbbbabbaaaabaaaba
+chocolatea
+baaabaaaabbbbabbaa
+ab
+baaaaaabababbabaaaabbab
+abc
+abbabbbbbaabbbbabaabbbbb
+abcd
+aaabbaaababbbb
+abab abab
+aaaabababbbabbbbbbaaabaaabbabbbbababaaabaaababaaabaabb
+aaaa bbbb
+abaaabbbababbbaaabbbaabababbabbaab
+xyzzy xyzzy
+babbabbabababbbbabaaabaabbbbaabbabbababbbabaaababbababb
+vanilla
+aaaabbaabaaabaabbabbbbabbbbaaaaababaaababbbbaaabbaaaaaa
+VANILLA
+babbbbbaabbabaabbaababbbbabababbabbab
+strawberry
+bbbababbbbbabbbabbabababbb
+choco
+baaabaaabaaabbabbbabaaaaaaaabb
+123
+aaababaabbbbaaaabbb
+0123456789
+aaaabbabbaaabbabbaab
+3.14159 2.71828
+aababaabaaabaaabababbbababbabbbbabaaaaabaaa
+[0-9]
+babbababaaaababba
+^hello
+abababbabbbabbaabbb
+world$
+ababbaaababbababbbbaabbabbbabbbbbabaabbaabb
+the word is word
+bbabbbabababaabababbaa
+foo_bar baz-qux
+bbbabbbaaababbbbabbabbaaaaaaaabbaaabbbaabbbaa
+tab	separated	values
+abbababbbbabbababbbbaaaaabbbaaabb
+  leading spaces
+aaabaaabaaabbaaa
+trailing spaces   
+aaaaabbabaabaaaabbbabbababaab
+MiXeD CaSe LiNe
+bababababbbbabbaaabbbabbbabaaaabbaaabbabb
+a+b=c; (x*y) {z} |pipe| ?q
+bbbaabbabababaaabbbbbbabbbaa
+back\slash and /slash/
+abbbaabbbaaabbbaba
+!@#$%^&*()_+-=[]{};':",./<>?
+bbabbaaabbabbbababababbbababbba
+email: user@example.com
+aababaabab
+http://www.example.org/path?x=1&y=2
+abbbbbbbbaaabbabbbbbaababbaabbbaaaaababaaabbbbba
+deadbeef CAFEBABE 0xFF
+bbbababbaaaaabbbbaaaaabbaabbbbaaaabbbbbbabaabbaabbba
+abcabcabc
+babbabaaabaababbabbbaaaaabbbabbaaabbb
+the the quick brown fox fox
+aabbbaabbabbbbaaabaaabbabbaaaabbbabbbbbaabbbabb
+level racecar noon
+aaaaaabaaabaaaaabbbaaabaabbbababbabbbbaa
+aXbXcXdXe
+bbabaaabbabbabbaba
+
+ababbabbaaaaaaabbabaab
+end of file
+bbbaaabaabababbabaabaaabaabbabbbbbabbabbbabaaaba
+hello world
+aaabababbaabaababbbababbabaaaababbaaabbbaabbbaaaa
+Hello World
+abbbbaaabbaabaaabaaaabbb
+HELLO WORLD
+abbaaaabbabbbabaabbbaaaaabbaaaabbbaaaaab
+vanilla icecream
+abaaaabbaaaabbbabbbabbbbabbbababbbbbaaaabbaaabbaabaab
+strawberry cake
+aabbbaabbabbbababbbababa
+chocolatea
+aababaaabbbbaabbbbababbabbaaaaaaa
+ab
+aabbabbbbbbbabbabbbababbaabbaabbababbbaaaaaabbbbbba
+abc
+bbababbaabbababbbaaaaaaa
+abcd
+abaaabbaaaabaabbbbbbaabbabbabbabaabaabaaaaaaabbb
+abab abab
+babbabaabbbaaababbbbbaabbbbaaaaaa
+aaaa bbbb
+baaaabbbaabaababbaba
+xyzzy xyzzy
+baaabbababaababbbbbbbaaaabbababaabbbbbabbbabaaab
+vanilla
+bbbabbaaaabaaababbaabbaaaabbbbbaaabbbabbaabaab
+VANILLA
+abbababaabbbabbaaa
+strawberry
+bbabbbbbaabbbbaaaabaabbaababbaabaaababaabbbab
+choco
+abbbaabaaabaabbbabbaaabbababbababbababbbaaaaa
+123
+bbbaabababbbbb
+0123456789
+babaaababbabaababbbabaabbabaabbaaaaaaabaaababaaab
+3.14159 2.71828
+babaabababaaababbbaabbbbaabababa
+[0-9]
+bbaababaaaababbaabababaaabaaabaaa
+^hello
+aaabbbbaabaabbabb
+world$
+aabaaaaaaaaabbbbaabbaa
+the word is word
+babbabaabaaabaaaabaaababbabaaaabaaabbbbbaaaabbbaabbabaaaaa
+foo_bar baz-qux
+abaaabaaabbaaababababaabbaababbbbbab
+tab	separated	values
+abbbbaaaaabababababaabaaababbbbaababbbaabbbbab
+  leading spaces
+ababaaabbaabaababababbabaaabaa
+trailing spaces   
+aaaabbbababaaaaabbbabaabaabaaabaa
+MiXeD CaSe LiNe
+aaabbaabaaaaaabaaabaabaaabbabbaaababbaabbbbbabbaaabbaabbbbab
+a+b=c; (x*y) {z} |pipe| ?q
+baabbabbbbaaabaaaaababbbbaaaaabaabbabababbba
+back\slash and /slash/
+abbaaaaaabaabaabbaaabaabaabbbbababbbabaaaabbbbabbabaaaabab
+!@#$%^&*()_+-=[]{};':",./<>?
+ababbaababbaaabbaaaaabababbbbabbaaababaabbba
+email: user@example.com
+abaabbaababaaaabaaabaabaaaabaaaabbabbbabbabbabaaabbaa
+http://www.example.org/path?x=1&y=2
+bbbbabaababbbbabbaaaabbabbabaaaabbbbbaabbbaba
+deadbeef CAFEBABE 0xFF
+aaabaabbbaabb
+abcabcabc
+abaabbbbbbbaabbbbbbaababaaabbb
+the the quick brown fox fox
+bbbabbbbaabbabaaabbaabaaabbabab
+level racecar noon
+bbaabaabbbaabbb
+aXbXcXdXe
+aaaabbbbabbaaaabababbbbaaaaabbabbbaaaabbab
+
+aaaaaaabbaabbbbaabbbbaabb
+end of file
+bbabbbaaabbabababbaaabbbabaabababbaaaaba
+hello world
+abbabbbaaababaabbababaa
+Hello World
+bbababaaabbaabaabbababaaabbabbabbbababaabbbabaaaaabab
+HELLO WORLD
+bbabaaaabaabaabaababa
+vanilla icecream
+aabbbaaababaabbabaaaabbaba
+strawberry cake
+aaaaaabbabbabbbbabaabaabbbbaaabbaababbbababaab
+chocolatea
+abbbabbbaabbabbbaabbbbabaaabaaaaaabbb
+ab
+baabbabaaabbaaabaaabbbabaabbabbabbabbbababaaabaaabbab
+abc
+bbbaabbbbbbbb
+abcd
+aabbababbababbabbab
+abab abab
+bababbabbababaaab
+aaaa bbbb
+babaaabbbaaaaabbbababababb
+xyzzy xyzzy
+aabababbbabbbbba
+vanilla
+abaababbabaaaabababbaabaabbabbaaaabaababba
+VANILLA
+bbaaaaabbababbaaaaabbbbabbaabab
+strawberry
+abaaabbabbbbabaaaa
+choco
+babbbbabab
+123
+aaaababbaaababababbaaababab
+0123456789
+abbbabbbaaabbbbbbababbbabbbbabaaaabbbaabaaaabbaabaaaabbab
+3.14159 2.71828
+bbbabaabaaaaababbbabababbaabaabb
+[0-9]
+bbbbababaabbbba
+^hello
+abababbaabaabbbabb
+world$
+aabaaaaaaba
+the word is word
+ababbbaabbaabbbaaabaabaaaababaaababaabbaabbaaaabbaba
+foo_bar baz-qux
+baabbaaaaabb
+tab	separated	values
+aababbaabbabaabababbbabaabbbababbaa
+  leading spaces
+bbaabbbbbabaabbbaabaaaaaabaaaaaaabbbbaaaababbababbabbbaa
+trailing spaces   
+aabbbbabaabaaabbaaaabaababbbbbbba
+MiXeD CaSe LiNe
+baabbbbabbbbbabaaaaabaaaabaaabbbbaaababaaabbabaaab
+a+b=c; (x*y) {z} |pipe| ?q
+baaaaabaaababbbbbbaaaaaaabaaababbbbabaa
+back\slash and /slash/
+bbbaabbaaaabaababbababaababaaaaabb
+!@#$%^&*()_+-=[]{};':",./<>?
+bbaaabaabaaaaaaababbaabbbbaabbb
+email: user@example.com
+aaaabaaabbabaaaaabab
+http://www.example.org/path?x=1&y=2
+baabbabaaabbabbbaaabaabbbbabbaabbabbabbababaabbba
+deadbeef CAFEBABE 0xFF
+abbabaabbabaabbbbbabaaabaaabaababbabaababa
+abcabcabc
+aabbabbbbaaabbbaabbbaaaaabbbbbbaaa
+the the quick brown fox fox
+aaaabbbbabbbabbaabaaabaaabababbaabbbaaa
+level racecar noon
+bbbaabbaabbbaabaababbaabbbbbaaabbaabbbaab
+aXbXcXdXe
+abbbbaaabbbbaaabaabbbbabbab
+
+aaaabbaaaabaabbabbaabababbaabbbbbbababbabaabaaaabbbaabbaab
+end of file
+abaaaabaaaaaababaabaabbbaaba
+hello world
+bbaaabbababbbbaaabbaabbbaabb
+Hello World
+bbbbabaaabbbaaabbabaabaaa
+HELLO WORLD
+bbaabbaaabbbababaaaaabbaaaaaba
+vanilla icecream
+bababaabab
+strawberry cake
+abbababbaabababababababaabbabababa
+chocolatea
+aaabaaaaaaaabbabbbbbbbbbbbbbabbaabaababbb
+ab
+aaabbbabaaaabbbaaa
+abc
+bbbaababbaabbaaababaaabbaaabbbbbaabaaaabbbaaaabaaaaab
+abcd
+abaabbaabbbabbb
+abab abab
+abaabbbabbbbaabbabababbbbaababbbbaababaabaaaabaab
+aaaa bbbb
+babbbaabbaaabbabbbbabbbbbaaaabaabbbbbbababbbaabbbaaabaaaa
+xyzzy xyzzy
+aababbbbabab
+vanilla
+aabaabbbabbbabbabbaabbbbaaabbaaaaaabaabaabbabbbbbabaabb
+VANILLA
+abbbabbbaabbabaaaaaaaaaabbaabbbaabbbaabaaababbbbbbaabbaa
+strawberry
+aaababbbabbbabbabbababbbaaabbbbaabbbabbabbaaabbbabbabbaaaa
+choco
+babbbaabaabaabbaabbaabbaaabbbababbbaabbabaabaab
+123
+aaabbaabbbabaabbbabbbaaa
+0123456789
+ababbaabbaababaabaaabaaabbabbab
+3.14159 2.71828
+baabbaabbabbbaaabbaaaaabaabbaaabbbbabbabaabababa
+[0-9]
+aaabbbaaaaababaabaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+dzadyaycbadadyccb bcxzabbxz bzay bdxz cazyxa bxycyacd y  zcxbzcdyaybazxzzxayabaxdaz ccd dxabzyzbcxdaccbxy xyyyaxbabdcazyzbaazyadxxay dayxdddx ybdbxcd dyycyc zxac a bzbdy  dcxydcaaazyxx zbxyc y czxadxdbc z xzybzzzaad adyzdb cbzzccycazaada  bybb xcbxa xzbbzabdaxzc z zzzcybyac bbcyydy ybb bydc dccxbzadbxayzdcya zdzzybbazyccaa byxxzxbbb yy x zxdbdcyzdbbcdyzdbdcbbxyzxz zbdyyyx cxyczzad zax   cbyzxycydbbzd yzbbddccz ccxyx ybyacdzy ydzaxxazaadb  dacdxyyyydxyd yyy cdzzdyxdbyxdxzyddddabdcbbyycazdcdazdb b dzdydd c ada dxbdzcyyy  xcdycazzyyzba zbyzxadybz abbcyac daayayay  dc cybba baay baxza yxbyb aybbxa dzcd ayz zcbbxc zczc cx yyzzcc ddzccxacbaadbzx cbxxxbcdyycbcazdz  baybzb bb azczxaxd bczbb xcxxxddcyazczxby acczzdbxa czzbxxzydd d aazb ayy xxyczddxdx yxxb ca cczbzc abc x xczczayxdabbzcxxaa zayczyyyyxazxb yyba ayzaydczzcdzxbcacyydaacb dyxyayazc yyzaybx yyc azxxa byybacyxycdzzxdayzc bdczxabc daadadyazbydyzycyzzacdb cbdzd x ydb cccdb yaybzc dxzd byaa  zdbdzyxzxdydbcadbbax  dadxyyybydaxazbzxddbbazaababab bzabza bbb adxxzdabbdcyby yacdabxaxb xzadxdbxyaczdcdzxxxbaz axzbzazcxd czbbyzy aba  xbcayyy addyzcbc xc baxd xcb y dyc azxxbbz dybxx adx xx  dda xdz  d zbxdzadxbzd xcxdzb badbxxzbbzbdx xaxzxdyzc zbca d bzdczzccyayxxdbbxyxabyybybcczxccbcybyzaa cyxxd xxyzdcdd bydcb bxxbydyyya aaaddycdxyxcddzdd ycy zyczacbxyyxaxyzdbxyd zcbzxxdda x ydycbdzacbybaddycadccyy adxccya bzxx xa xda  yyyb zyd dabbydxaacb czzaxydzzab ccaxbzzx zxyyxbzdayac  ybcz bdzax z xaycdzdxdyzaxbxyxcczybbzdazb dbyaxxdyaxycdddycybz yzzcda by y yzbdzybc zazyzbcyb caadyxyyzycdb ac xzzbdcczyaxyybxydycdccybc ya ydd z ac ayz azaxc zcdxb dba xzdcbbxx bdadbxxazaa xcy bbdabz cbczdddxzby  yz zdayybayb adzd xzdyd dy adyzb xdxzydacazbb zyaxbzbabcybzcabzaz   dbzydx zcbbyyzxbx czaydbddaxab cybd yxb abcbbaddbdyazdxzbcabxbc d a  xxyzccbacczdaayyyyabzxbycda yydbddy bybyccd zxacdabxxcad xzxcydyddzacydzz z dbzdxcxbzddcyacybddbaaac xxbbz d  d cyxxxab z zxbbyc dc  xxcxdbxxdx y  yx axzzdazyd dbdbcybdyzzbx  z dxxcdcyazxyxxzzddczcddyycacxyydzb xcz z xbxxbzdacydcyxbd zbxbdzbaxcbyax  bdxxcxbz  c  ddczxbay ddbxxc zcdbbxaayz ddyxzzadac y ccd  ad cydxdz zxadx c abdcazbccazcbybdbcda cby bbaxzddbyyzbzazcyxzabayyc  a ddccxyyazdabzdycydxxayzczcdbbyzdxbayc yyyycczadzxdbxyc cxbxcdzz xzbzzyaxzcbzdcdzdxczbydbxdccc abyadc bacb  axzcc y aycaa yxbbxdbxdycdyxz yxbcdxdbcybxbyyyxybzdx cbxzb bdydcyxbdx   b byacbyxd byzaax xcxdb bzcczda dzdba ydcdbxzzzcbbx zxd  ccxdyazxaacd z c ayc zbx acacazxcxzzyccyd dzzaddyaxczaybzz xzxaxcxxabdcyadd bybdacxzdbcy yy  daaadbdxxxaczcxcyc dzdxxddccbzxc zybxyybddcycdb  z  baxzxayxd aycycxzzyy czbxzyy xacxd xzddb  bzcbzbxyxccayycbabbx cz y xcda axyayybaxxybbcbc  zcayxbzcdyaadxyadazaxdcz  zdzyxzyxdac d ya b abbcdxdaxzc xzxzyacxyb za ddyzacdybxb xyy add xzazcbcxdyadzaxxabybd ddcx zcbcbyddbcbc za a  xyydbdyc cdabz z bdzxcczcc c cyx    baxzz cccxxcabzadxxx c  y accacxbbzb azyyy cxyybzaaczxydbd dd  zdcc z cbydb bdbycaazzzzx bbdzcybdacz cccyxy dbcbddyacdxyzcyzbz ca azddyyd abzdxb bddyccxy zcdzyadd bzzdcabxadddcdx da baxyzdaadaaxbbxyc xzdczyb yx bcyb  aydyydbdab zzxyxzyzbxbbbxdddyxxbzdacadaba daabaadyb dczzxddzya axdcdbdb zcddczadxc   bzaxyz cdcxzbzbzxxxacaccyzaa  acx  abzy dcxbxxcdayd cbb xybdyzy bycazdbdyadydzcybbbbzbca xz xzc zdaccbbzdcyadxbdcday aabcddzabc dazdy b dbxy zbddzyxzxc zydxyd az zzcxcdcydzczx a   xcbzyd cy yxxx d ybzyx zxbdzcaydax cddcybya caxcxxy yaz bbb y cddaacb  dabcyayczabdb  xcaycxdz xabc cb  yddcybcddayxbbdzxbbyazaz b  dczyxycx dycyazd xzaybdzyac cb zcy bbdyacabxcbcdyyyx xcbdzdbdyabzybaxbdxxxxacxc zccyxdyybxzcbc daaxa zzybdycxxac zaazbdxaxxbyccydddzx zy ddyacybcbyxcabdx ayb  zcyaza czdcdd ydbzyczdaxc xyzyxxczaazxyz zyxbbybccxazxccbd accb ydbazyzaabyxyda   b aay baacazycyzxdbadzczxxxcyddyax b adxba yacxaabcbdddbycxdx baaxbzzddc xx zxcbydbcbxday d cbcacdy dx ddyycabbzybc b xxada zx a cbccadb xd dxzyycczyb y dcxxzaacycdy bzd d daccbyabyaczdxcadc a cyxyczac ddcxzacccxz zbyyyzyzxb b xxxdyxzzzxx z bzdyx zxzbzbcc xbd bdydd zzdabxd cxzyxybczxzybadaacydacbddzcdcaz xb acycacca xzbzyaaad az cdydza ycxdbxccxaaba xzbzxzdbbydb zax zzd byaaxcx aycdy abz d xxzzzzxxa zxzxzayadzb bxcadzzbdzzxdyy ba dz dacdy cydbdbbczbxaxxbxzdza  bczxyyzzabxbcddbyzzdybyxyczzbyac byazxbx  cdbyy abyyy zaycyzz azb zbadaay ddyddcaxdcx azddzzcybxy dz bz xxadyazd dydaxxcdaa xyddc xx xadxx cazybyyxcdxcxaxc bxddybzyyaada z zdydxzda dyxycd aaayycaazaa czxy  bz x bbdzx byxdazx d dczccxcbbxzdayxb xdyzda bcbc yybddb  d dxcabxxaazdbaxbayd ydxay dacbcacxyc b   bcb zxcbxxxabyxaxcyzaxxcyxbca dzyb zbxaccy cybabzdyzdcyzx d ayd y yyxycdd yyy xbxad yaaxacyy xzzdy axxx cydaaaaz zyxbacdz dy xybyx adczabcx  xadccxdcx zacydb  yabdcyydaybbxbbdayyz dadyaxdyyb dadb xycbcccycy axzybx xcxbcccdxzzzabxx cybaxdxdzadcza yyzaydd abzxd cxcdbcz zcbca yyycczyzbdcyxbxcc     abazac ybbybx zz xbyabxx a abyxzayyczaza ddcdxxydxcbazcacxyddazczzbabyyazxycdz aabzbxbcc xbbyzzacyx   d aybdbcbd b bcy bzy yycyyxyzabc dad ccbxab dzcx bbxzdbyydayddcycyzxyc zyzaybyaabyaxzdyd xdydd zyb byyz d xybcyy dybza  zzdydzxyaabzazzxdbycdacacyxxayyc zbbzzazcbzzbxaybzx zdz dz xxa xczyxdxazydzzbadyd zdzzzzdxzy abayxxcz zxzzac xzyz yzbxaa xxaydz yyxyyx  dcxdyzcy xxxdc  dzzxa z babcxcadbaaydydxcbzcyazabcb c byyddbdb dccdccxb dbbccxzdzayzz  adazxa xxzdyazb x  zadayzxcd abzzc yzbc ac xyaaxdyd d bybzaz a y czdxa ccdzbbbbbycxdybdy yx d  cxdc xabxbd bczdzz dxdaac zzadcyxacxabyzyabada ccycxx xaayxzccbc xxyxbbzb x ca dzx x axax abxyaxcdcacycdybaczxa zybx ybb  c adabzb cyzcbbx babcadcddazz b  db  xxx cxdzzaccc b z ccxcb daddyxdybzbdyxxa xbxz bddd cccxdzxdbbzyz dcaydbxdxx xabab  byyydbbczcyx zdc zczbxx  xbzyza yxa cd bzba  cd  ycyczxd xxcaz  caabyd ydyzcdcxbd czdbcdyxazyabcy zdccz  ybzdba  cyyca zdxc azyxyddbdbzxdy cy czzcd bdycacdzy xzyabzd czadz  dbxdbxdbyyzcxxyy cxbycaxdcby xczbbyd yd ycdbayzzxy bbbx yyzxxbc xzazx yccaxazd c bcbd dxcxzadxbyadxad  ccybcyydd azczbc caydyxzx dazxzxxyaxxzycxy dxdca  x  ydzbb accbyyxd yd  xcdczcaycb axxcaccdyxazycx yzcabc xadxayxdybyabadazd xdyz bzz c dd ba dcx bdb  zxbxaddca  azbay bbzxcdaddcxacxbzc ccxzca zcdbzdbac zdxzycyaz  zc aacb cbb dacadbbaybxcbazc zd xxz cccaadx cxddycbzaaacx xydcycda ydy  zdddd bac aaxxzbxbzx dddbbzcxaxdczaaayaczdya axcbzadbbdzzydayxy yc yxbcbbxyb acaadzx yxcac cabaab yxacdaxxbydyzxdcacyxbcxbczbbcdcyxzcbyydzazydbcdyabydadbbay   ycdxzbaycxxddcyybzxxydyzcxcbcyb bcyxyycaxxcz zcxc xdxaxcccczy  zyzdxyaxyxzdaccbxdxzydzbzdayxyccdz ddxdccz  xx ay y x cacccyd b azdxda ydca  zzczazccacabxbddddb  xyzbdx dbxyzza c a z bdbxdx  xad zzxcbbaddbbyzxzxxcbcxdzazdx ddzdyac caxdbybcb yd bzxazx  ddbdzzayabc bzabydcaza y aybcaadbdx cbyzadczz czcyxxbdyzabzzxzyczb ybzbyayxycdddxzzac z zzcbx dddyxz cacxcbx caxbada zxcbcdxc azxxaxcbcxadbyd  yayzbz  c dxdbdxxbxxbxzdzz bbbxdaz azcyzbzc yyaad zbxbya yc abdbb dazdzyxcc dc yadbx zazx x ayd c zby xxxz aa bbddyzyx dy b dbd cddxxdzzyx cy zdc za xady czzxzaycy cz b ayczaybxybbccb adccbccxzazyybzyz xa xyxa  dbaa dxydcaxxcadyddaybd cyy  z ad aycbxaaaa cxbaczxazax c c b  ayyxdcaaybyazdzd cxcaxz z dd caxyayyxbbxccxbbz xyzayydbb byx xz cda zccabc bbz ycbxyyy ybaaxxbxbxcdyzcxayzd bxcdayz cca yyaxya yzzdxcy cxxzb  xdcxydzcdyxxyydydaxdx zxzxyyyb axcd b yyd  baxzxzbdbacc xxcczccx   ybdddyybdzxcbyzcbzdzacbdybbyayxyxb zdcydyxzzxabxycddbcbz bzaabyxcabxdxzzcb  b dab z yzzad by zyy z  aab caydzdaddc   zcadx z zxxc zadxadyzc cazd zyxbzccdcxy dzyyad cz ycdxcadcbcaxayaa bzc zxybzbyxbddddba cbdbcaayazbbcycazdyzbxz xdczyc azbxdxydxcabaadybbzzxd bczyc zzda cdc acyb zxb bxycxyxacxcayzxcbyccbbax   ad bzdzxybzzdc abbbbxay dyyaxydcxccxdyd cxax acdyc y cd xbxy zyyyz y xdc axdc y dyxxccacaycyczzaycxcydaayzad yzxdx xbdxczxacxbz xxzbddayxdybbbyzx  cyxzbda d z abzazcxyacydxzxcdybzzacccxyxxz ac xddc xxzczydy yybadx za bxadcxdzayxdyabycy cccacbbyy  aabddzzzdxzd dcdzdx cbaazydx xxxbd b aac b dx caxxzazzy yaxzx bbzbdzybacaab xbdzcdxabyacbxc dxbadd yzxy bb zxzza bydbabcbxb zx yzy zb d bxbzazbaca zacdaaxyzaxa dzdbxcabacadaabzbydzabzcaycd x bdyyzcy adc aa  dza  yaabbabxybxcdccxdxbzcyzzyxbz zacbxay ydaazxzadbcaxbdcybc yydd zzcabdybyabxxyabya acxxx bb  x yacybxxdzczxxd bzcbacaya ycdx bxyydaayybdzxxabzybbbc  zcbbzdzzzdzdbyddcyccdzybccbaydxyybcyybdcd  dcdadacy yacyad xdyzzdxbbxcycdxacbxyca z bxacacxby dddcxdxdabzc yb xc axzzxc bbzxyczzzcxxcdzd by aadbxbbbdabbb zz  abza xzyccyxyaadzzdcdyyc cdyya c abdcaba  ycbyddcxy dbbzzac z ydxxb axddyaczyzayzad  cbcxabycczdaxbcdadx  dcd baacdxdbxyyxzzxdxczz zbccayxy xbaxxcxaycybzx zzybdzy  zbzzy dyacxdbcbzddz acybb ycyzdadaya bb  yzy yxxbyydbydcy yyzccbzaxycydc aaax xyyycccbczzzc cddyx ydzcb ax bzxczbbbxcx xcb xyxdadcadyxb czdyb ydxbcdxczxya caazbdcczy cdd  b zcxyx z ac cbdzybzbxazcxczbacdzay xcxaa c yxbb x bdyybdcdcca  dybbbcbzxdycayccacazzcbdyxx ab yabccdadbczaabbyxddbxxxybc bdzbbyzdyc c  xzz zzczcyabxxbazdzad zyacy xbbx dyzayybyb y xzbadzacdcaxcdbbbxzdcac  yydxz y bx bdbz bdbydad dzyyzzabczbbbyzabcadadyaxxbzadyx dxabcbzxxb xbxbdyzybabz azxd c  zacddydbbazxyzdcdcdzydzzcdcydcycybzad cbdy ccxbacz azcbxxbxczacdyaz   yb dxcxbaby  yxyxbcycababddbczzzzbcyxad yy  x xdbzaaaddb czcdccbzbbbdbybbdczx xxyccxb  d b a ayxdaaddb  dydcd  abdydyyybdycbcybzxa xax xdaczcyczzxbzzcxbadcbzayz abxdcbbyxxxayy dxzcxydzzdzxaz a   cxbxbczzcbzadyybxaaxybcbybccyxbz cdd bcy ay zdayzaxz badbabzdyc c z  ybb  xbycb  azdyyzdxaxczxzc abyzzazyddadxxczcbzcc bdd da ddaczbbczcyaabxbccdcxz aczyaabxydyaaczxa zzzbzadcyzzybybbzbbz yday ycbcdyd  c zaacxcbybbydxaa bbaaaxycxaxazxaxaz yxdycddbcddczc xxdccdccdxyazy z zcxzaczyyca dxxzdzyba dxaybxcdy cdzcdcxda zbyxzcxzbby byxbdayczcbyx xaadaxz cabayxcybxdcdccdcaydbzb cayyxd zbayyybdzcz ccyzczyd dzaczybbaac aday bbax x azyyx bcx dcacydc d yb ybdbabxcbybczcyybaacda x acaddyz zyxazybz yxyc zyazyaczyaayadcbxa zczxaxbabzcbzydczxyzdxxyc ccacbbczxdyzzzada axxbcxbddaayybzzz  cacxxczbycaczyzadx zdyabcabadydzzbcbybbbbxzzx ddyycyy daadd xbdyxxcx  ydz ybxcb cdxxdzyz dzx cd zbczxyczxzyxybdxdxbzacbdx dzbbd b dxyayyx yaadz axazzacxyxxxycbyb yy dyyacx bx    xcdyxdza a  bdbczxyyc cxzbzdd xxdyyax dzzd  yaydzbcdzxcdyxz ycdzdz yzyxdcc  xydxzzdxxycyyd ybazbddzacc b b ydzzcyzzydxdazbydaazxdbzyayzadz xzyccdyczxbcbdxdxax z zzdc zcbadzbxaz ddcbcad   yaxa d cxdbdcxzd ycdzbcyyxzdc cdydbxxzzbbcxaaczxd bbddydzxazzzbz bxax zc ydyaayxbycxc xccz  zzz bxayzxddxzz ayaxbby c xxy ybdzyazcbzadd ca yzc xacyczcdby yzbazbdaxdadyazbaacxbayd zzdzccc a aaxzxbybbxcb yzbb xzabdcxczycab yxczxcdzdbcbbzazdayazzd  zcxzcbx y dxx  aaaxdcb bdzdc cxcbcxxyccy ddbacxyxzby bdb dddby  dazybzcyxb  abczzdcdcadcyd aax ycbyzxab zcybcca xcyccaxyxaczabcxx xzyyadbbbzba azxazyc bdacdbbdyddycxxbzzdz  bzad zxcx  cccxbyyyyxzyybx zax xxc  bdzbyzac xbcadydyxababxz ayyxaybaxyzzyayyzcz  dabdcaxdcaadbzdz  axacycbybd  acycxcxdadabyadddzdzdycyczbaczczaaydaxzxdxczxxaazaxbdaayzbbcabzydzxy  zdcaayzxd yazdzccdyzyyzdbzbczayazdxaa zazaabxbddxaxzzd cb  ccycdz a c  bxaz  dcbbcbcy zydydd bbdxaz xzazxdb xbcdzadcadbzzzbczydy x ccayz dzb xd  xz cca dzcazayc b yzabzddxbzzydxcxyczcaxdbcazay acabyzdxz ayx y bcxyaxcybycxybaa yy bybbda za yzzzdzbxzbx y  c zdxzxzzzbzb ba aaaxyyddbycyxxxbzadbaxcbddydcydzaydyabxyzzyzyyx x addd dcacazaxczxdb cyacczycxcbbzcxx a bzybzcza xcdxcddyyay daaydaacdbbzdxcayzx  ycbcyyz cazxxbd ycady  aabcdbd y ayyzadabacyabyxzbxaycbzzdaxcxzd a   c xzxd bbdyc azzddd yzdcbdbzadbd ccxcczaxyzcaycybzad zxyzxx cb xxca  yazzxxxc xza cczc a a byyzc bdazbdzzb a zbxbxabdxzxacxaxycza zaydacbcbxxzaycbzcxy azcbb cdcybyd dx  xczzc adzzcyayzxbabx xbdzyycyxdddzcya yya zczaxyyxdbzay acaxbxcaaxabaxc cy zzyy  xyyxzaaxazxxybdcddxaxcxzycyyxxxyz baaycxxcxaba bdzbxzzc czczdcxzyyacdybxzbdzbccb xaxdzabbddbxaa zzcxcbxbcyxcbza db axybzcbzyxdzxbzd c axdzxz xcxyxbazbz xaadxax ady dyyybzb yzbyy zybaaadx xxdzybccyx dzbxcdxbbyzybxcaby yycxyydyxdbcd  zyddzza z dzxzayabbxcxbybzxzyd zazddabxaabycd yycdada caacdaczdbcyaa  x ydacb yxdyddxxzd bydxbbbxbyzyb z cxzbd ycddc dddaadz  dzycyb dc   xb ca xyadbxdby zaaxccbbdybax dyx y dc bdzzxddcaabbddzdb xzycab yzxyayadyadcyczbyxcabcaab by yxa c abzzdcxcxaczbxxyxzzzbzxbaxyxbd yzdbabxzddyzc dydac b baaxzbaydczddcbzxbbzdbxbx  ccacdz   ybcc cxbddazcazxxbxd dx zxyzxadxxz ddbdxxaxzzzz zcabcdydybzbdzycxbbayyyax xdxabcyxzdydxcabdd zabaxzdaycxdyaybxcd  d zadczxcz c y xz baczyydbcyc yb xacaady zzbzxxycaxzzxayc xxyd xaddxayd  zb aydadbyyyycydxzyxxycyydbczddyxdddcy bbcbdydb zxazyzbdxycxcxxxax bbbd dxyybaybzdxbazbbydd baazbbcddady  azabyyyydac yabdc  ydzxaa bxydzadda zxdbcyxcabbdz cbz yccyzybayzzzc adydcdzyzy ycb bcacxbcyd yxx xazddzxy abycxd ycdzbdbdcyybyxbyda zzzcbxdcdya  db azdxx dxddzdb bzxabx zax acazybxcxzbxxc ax zdxxz  ybcxzzz yxzzzb cazbbb yc azcb  xay zyxy ddd zxcc zbb ba d xbdxabzxacxxbxycaaxdycayxbzaz ax caxa d cad c czdcdy abzcy abcdxzyzxdbxddbbacazzzzbbdzycyyzzzdxyazdyxcbddxx babdzdbbx a bdxxdadcdcdxxaza byaccdcy bxazbdc ac b z yy  bbcyczbzzbaacybaxzzbabccz zxd  dxbbdxazzyccab dcdybbabadzbbccb dbxxd bczxycbzybazxby zcbyxdbbyxyb zcyycaxzya zyxcxyxaxbxyxcyd axcd za xcd bccaybzacyxyzx yayaayxdbybb   c bbc c bddazazcccd  yzadbadbaada ybyxbdxx ccz bxad d aya dcd daz   abca zcxz bdx cdddzxcdb ybyaybbdyyydyx cb dx dzyb z xccbbzbc bycczbazxxyzyzbbdxzxzaczcbcba badz accczzxxc zybzccyd d cyxadaaaaybzzc zycxccdyc dbazcxzyad x xcyxxzbacczxayddbab yxyddxdx yybdacabxa xac zyaddxdbx cazaabydz adcabbbzccbxxbbcxxbzaxxxczzazab yzydybc  baddzbycxz bdaaydaybdczzdbdayxczycxzccbczzddabzcdyayyccxc dbbydxaazadxd z cbxcx  xaadxx aabyycdacyxdaxxy by dbzc axxdcdzdybzxazdbbdcbzyzy bcdab dyabaybzxcadbybc bdazzcxdyaabcbddcb ac aazdyb zcxdaddaazxa c czayxxbdbbyaca   dz xxbyybx xaaddc  c xcxzxzcbyyzbdbxd xbabcc xad aaab adab cacaby azxzybxb yacxxxacabx  ac ddzdy yxzaxccdbc acdzzdccd cdyxxacxyaydzdcyzbbzyyxz dacbzcadbdcxayzacyxcbzxyydzyy b bccxdxcabybcxyb cx ayaxzadzxyabzzzc dabzx yabdd  d xyzcdycdb ccyd dbbzc bdx axbddydbzdaz cz d  ayxdcbxzd cddadbc dxdadx yxyxzzzbbxyyxdzcdd bb cb czzc ccyyaccd ayaz yaz axzyab ydbbdcabcyddycddx d xxddydy yzxyx x azzb aazyzycbxdxbcb bxzxbab xxxbcydzba dbxccxyzy xxaxdzcb yzbczycab xc zdxaydyzdxc azazdxaxy dxdybyz zya xayzayzzzaxxczczy  yc ycbac yzzybydaxcxczazxzyay y yczx a cxzbxyxyyycbac zabba ac ycxybxbczaz  baa bdxabzycxdyybycaadbz bcxydyzayx zax dzx cayzadacaxbya ybxzyzc bb axzxbza xy yaaabc aczcaabdabxbdbaycxcyzdbdbyzzybxbdxxzxbabzcxaadzybcxabay   a yycc zdb cbyzdbya  azzbayx dxdy zbbcd dcazcdzdbyzacxxyazzcxadydbaxdydzzdyzdabdb ac xbydcz  daxbxzd cccd cz cxb zcbdxdcxzxa zyda zayayxz zdccbcxcxyy bz d y ab    dyydybbzxdyxxxxyba yaydxcadbxxybcbbbz bbyx xbxxcabxccabbbbdddaz byyaxydcabbcb xa cbc y zb cbdaacycdxzzc bycccdycbbcxz ycbccdxxd xxyxz bcybcxdbbbab ca zdcyxy zcdddycz   ycbzx cccyx zd ccaay cacacxdydyczzayb ybaad xxbbzacccyyyxcyycabbbxxxcda ab zc yzyddbabcc bczcxa bb  xxbcddc cxacdyyyaayxbabbdyzzxyxdcxxzbbdzyyccdcyzyzbxb yzdyxazcccbxbyyyazxyadb ycaxdbddybcc cycabazydbac ydzxac yzzya abxzbyzddbc x xbdbbyaxdzzaxzazcbxaza  zxz  bzadzyzz xyyd zxzx d xyz cda daazddxdcxcdcdxzcdy zza  a ddbxzaaccz bxby xybd ac ay zyxadyxdxzyz aazzacbxyxdbzdadbxdcayxxbbzcczddacbxaaddccdxcabxbbbzaxcc bazdc ybxxdbxyaxy zxyybdbxcadx az ccxybzdaadbcyayddbxdzxzxzyz xc yxyaacdczxy z cbyxddya abadccbbxbybxzxzbaz  zzd cz zbbbddbxb bbdxxyyx xcazyddxzbdzxzdb  a ddybd ddxaadaxczyadcdxaa  yyyxyca abc bxxbxbdxxaxbbyd zcxbyaxxycaby xaaxdzcxbcbcay acbaay abdxcxdxbxdcx ycdyxzc bx  y bx cccbabccd xcabxbzbdcc abazdczczzcy byddzddzdcyzd czycdybzzzcyd cb bczdbydxbbz by dcadaz acacxbc zd bbycadbzyzdz byazcbdxcx zax cayddaxaaccdbzyz zzbyax yzbzy d  z dxdzbxbdz ddzdy cydzc  cdx ac azcbx caydbc dybzxdyaxccdzczyzay aaazc yyxczbydcdxdazbdxddz ddaczbaabz ycbdayyydbb  x yzcbcdzyzay ydxxcabd y ccxaxdzxbccbyzxxz cxyxxdz x a azddazbzzxz xyxdxdayaxy b xxzy xxxdxydzxzcyzyaxdzx bzzbabxc bzdy cyddc dyx cya zzzbdbdcy  ydyddcyaaayzaydbadcaax aaxyxyd ddd zdbdabyxcyccya dzxxz ydy aaby  xcaaxa c cdaydxzzcz abbaxcd axbxbxyxd cx ddx xdxca cyzczy zaad   cdxa y az dxb x bbzzdddxxdxzc czcbabczy x aaz xcxzbaz cxzzyby cdzbdyazzbcdaxxzxbydyddzxba dccbaazyxayyzxxaydzb dazdx czczcbaazdacddz yyacay adddddzzbxb bayz zdabaa ayycdbybdb bcd byddca b azyxybdazdyx zxzbzxyzczzccaccxy  xdc ybzbbyd zzzdcza zyyzyyc xxxdcxxzzdc  y xbazycyaddbbxazxadaycxa bcbxzab   zb c dczbdzaazzacz ybczzxzddxbazbdbybady  c  cazzdbbbzbybca bdbcbxcyyzxddcbxycycx xcyzdya xaxx ydzcyxzdacad  bbc dbadd ayzbzazddzccz yd cbybd y yxac abadyybddycbdz yydxabdbxzz zabxbbbbdxxyyxz xxzxcxcyaz baacy dzcdbzbadyc x xbaa cazxcacdzzyzxdzxzdz yccxaydzyxyb xxazzx yycy  y yc cbabccdbzx zdyabzaaxyxyazx xcc c cbdzb y bbacdbyyz d cdcdbcbbby  xxdbcbbxxab cycyb ybz xayybyc daaycbdyxcabazxcabzaz baxaxxd ca bcaxbc xbzxcaxxzc zyaaxdcy bxyac bxx dbxyzazdx dxd cayxaxczydddyxda xbz d  cczbccxcdxdc yxdyxczab xxxxdycccdxycdycdxdb xbdbxbzadyddczyd bddxx zycbdcbbca b d bydyz y cccaxxdazyddb by zxbczzcbxycacxxzycdb azxb  zxzdy  cybabydczaa  aybxcdxcxbabyzzzzzcza zbadzdcdyz  ccdcxad bbacbzxczzz zcdz cycbxbxazdxy xybazxa xyxxda ayyy zxxyzd zdyxxbccazbaadxzzdczy a bybazax yba cx xbzbybzzddcd zyaxdbzcbdbbdxzbydybxdaybxbbczczadx xayaza dx bxdzzbzzbxcz bzz bxz xxxzzbcaydyxaxzxzcyabaaz zxy cccabxdbcdcyx cx ybcyx  bdcda bdaddxzyzd adaacdcb xbxbzcyyzxdxaxyyzdcxbxdxabdc bbxb daddyb xzzd bdzxdxcybbybyx dccyyda cbbzadcdyadz d  yzddca zdyddbxbdbd zbdd d yzyazyxzz yaayycxzddx xdxdaabacybyc bxbzycbcab x azcba cxz bycdaxzd ccxbyazaxd ybayybdxddyaddxd aycaycadyyaadbbaxz xdxyxzxyx xxxaa bazdzzz yaa x x yybabdxxacbbdybcyxdaccaazxaddzccyczy  czcybzzbbcdddcbbcaxad c ybxxbydcaaa yxxxbcybadz by xyybyxxydxacbyx abcyccaxd yzbddddxabcbycxxdd ybzdzdbzz zxyadxyd accz xycczy xxca baadza axybaxyycbzcyaxdxbadczxzxyccazdxzzdd cydxaydd xc dby a cb xyyaabzyc bdybx yybxbxaddcddx czyxayzadaazd caxdxzb zzcxbcdc xbzzdabcab czbccbb ca yazbxbazyxaca  yayz zxza ya xycbzzaa yxycbbyyxz  zaz z bxxbxbc bxbbcxxc aayxybacdxxzzy yzdxc dbzbxbbd ybdbzzxdzzbyxcxxxaxybcdac zxbbyz dbya zybcyxxyyz dz  yayb ayddybaczycyayzcd daabzbydxxb cb cd xca xyxxadycbxaddz a axabyc xzyyzzczyb dabyx  yxcbdaaaccxbayyxcbzyyxbyb x xczyzczabbcaczzz bd ycbbb ccydbazddxccczxbdaaa  dbcxzybbd c yycydcxcd yzbdcyybxxyxz azxyxydbc dx b xcdyadacybdd yxbzzbcb xyydcxbadac zdzbdy  bybzab zxbdbyccxbydxbzzyc  yybddyxx  d czaddadbbcayazy caxbdcdxczy b dabab ydcczyyazby ada addbdbydcadd  caaycydayayxzaay ay xzzddcyc yabydxcz zzbybybzxzabddy dydyzyzddbbdc  bbzaaba y cx aaa abzxxxbydaxayd yc  ccxycb adbccdabzzcbz ayaxab yzaycxc zabx  a addazyy acdcadbbzcxyxax a dddzxb dbaacbcbcacccyayazbddbzyax zzxxdyxcxy xddxycaazd x yxdzazzddcyzzzxxybdadz xa byaa zxdxyc adxbxa ybd xcxzdzybyaababcdyxxxydydx yzyyadcbxb zxxdyb bczbzbaczzbdbyxyy dxczcyz xd caadybzzacb zzddycdyydxcbcdacabbzxzzzyxb zzcdxx xxb  dxyaacxbadza   xy yaaxcz ca adxddb  zyaz baxyx zzazycaddcxxaxa xbyy x dx ddzydbcxa bb byb dddcaxddczzzaya cczyxb azyyxxxdyc cbdzzyzbxxxcdadxzby y byzbbadxyaddybxbdxdcbcayyyydzybc cdby y  adzd dyzdbcbabb ybzdc bddcxxa dbxbaayz xdxd  axcca bxaabaxbxax zabayzyxycdbbdyyx  cxca zcc ydcyxbyzzzxxdx xazxacyxyxzxxabyddcbdzaayyzcaydxbbaczdz czyy cdybcbcxy zcd ccxc xybx ddbdb yc abbdyazxxcxxzxaby y czyaad xyc zybyzdbcyz abyzzxyzxz bcdaxxacaaxxcddzxcabccy yb ydxxyy dydxxaxzbc  zabxyccdacacdxabcyc bcxcyxzzbd bxz cdddbdadcaaayx ycdd xxzdy dzdzc bayaxybzdxyabdyzzycxcxadxx abxyzyxaadycdzzz dyday cdzczxybyxbc  b zaddzbxbcybzzzcyaabdbbazbxydzccdcy bdyzcdaazx yzxyy dxyyzxczzdyz x xybabydzzbaybcayddba cbbazadbccdd xxaabd xyxbzycabbaxzxbabbdcxxbzdz abzaxaxaaxxddcbdyddddzycx czyyycxxbbcbdyx cxa dzabadzybzbbdbcyxz za zc b ba yxccxbbyc xbadzacdyddyxdb bbbdd cbdy zbzzxd xxydxzyxbdbxdxbbzzbbcxy    baadxbbyyz aaya dz y cyxbxybccxcdazadcc azd dcxzzbdyyacbccbyzdcda adcaac ydxccacbb ybzzc dxaczb yxxdy ba bzbcx  xb acaybcbyxdbzyccdzayxz yzzz y xxb d yyczybxabcdyzcaxyaa bbczayccdabzc yxbbzdcdcxd ycdc  xa  cbbdbc xbazca zyxdxz cxyydayyxddbbc zbzz xa bz dczad cyz ax byxax cyydzdbby bbxcyza adby bydaycyc d  aabbdccy y c xzz da z c dyyzzzdcb zxbx a cb y bbbyyadxacxz xaxdbxazzz ccxazbzzxxdzxb czc azcybbbycbbyd zadbbbdbzcyb azxbxbxxbdcydabaxyd dzba  zy  da  bbybxcaa ybzzzbz yxaa ddbzzx bzazcybxzxzabxdabbd dbbayc cyczadczc dcccy dxx dyczdyzxazbddby ddxaxyydaydcyzdd ayzaxcydd bc aaddz bdyb xcbb yxbc czzxbyczx zydyaxzy yddxz zdx dddbddccydxaycy c zccyccbcabxycccybyzybydyyddyz yczybdbazaa zzcb bc bcbyyxyzza   zaxacca  bbxzbacycxbxzbzyy xzcbb dyy
+bdcc babbbd dcaadbcacaccbbacbb  ba cbb ab aadbb bdbbbaa abd
+addbabb cac dabdd  cbddbbabdcccab bdbacbcbaadcabbdccabddddb
+dacdaacbcbbbcdcbdabba  cdbdaa adc c  bba bbd a addcb 
+caddcbaadaadbccdbbbccbadaba dc ddcbdbaa
+bbbcabbacdbdbadbadbccddcca   cbadabb  bddaac bbbdaaddbacbcd d cbdaabddc
+ add cbccbdd a d cbca bbdbaccdbc dddbadad ac cdb
+ac aab dcabbbbcacaa cdddbbabbbabcb   ddddadbacaabddaddcacabbacdb
+dadbad cadcc da aacbc b acd ccacbabadbdab babac  cb acccaddacadbacb dba
+adad d accabcbcbbadddb aabbbdbbdbbbac bcbbdabdcccdaccddb daddd dab aaccc
+dddddca dbcbabbabb bd badaabbacdcdacbadcada ccab bbc cbdaac
+bbbdbbcacaaa dccbdabccbaddba bddd
+ddc baabaaccdddbdaaaccbadac dbb
+c a ddd bdadab a dabbcbbc babdccdaaaacbbbdbdd cdaaaadcda  ccbddbac  a
+b cb bdacacaac ddadaabcdabbbbddcad babcbad
+ddadbdbdbcaabcabddaadddcababda  ad 
+bd a cdccdadd dcd dbbdbcaacda d
+a caacddbbacaacdaacb baaacddddda cbddaacaa cd aadbdb ccbcdd b ba
+a bcaaccbcdbad acbbaaaca addcaba ac caaadbddbacddbdccccdbccabc
+bbbacbdaac cddbc abadbdacaac aabacaabcbdb d ccca aabdbb abbdbacda
+dddabddbdbc cdadaabbccdccadbddcddaccdbbacbcabbbab c cc ddbccdacddaacaaddbdda
+abcdcbdd cacddccdacbb bcdadcca
+cba bbdbbdd abdddccaaabcda
+dad  cadbdcb  c dacaaa 
+cabb dbadc ada dca  dadbdcbbdcabb bacbbbaa bbdcbadabbd aaacbbc cc cb c
+ dacacab acd daabcdadcaaacddc aca bcbbbddbb bababdb a adcacbba db
+ccbaaadbcadccb bdccabc c cddac cbccaabc
+daacadddcdb cdbcbcdaac
+dbccdacaadbaaddcc baabdbdad bbbcabccadcbddcab dddadbdd  
+ccdadcabcaccbcb ccdcdcacbdb cacb dc
+abacb ccacacbabbaaabadbdadabbcd
+aca adabaabdaddbdaabaacbdad
+cadaaacdccbdbccbddcd
+cbbccccadb c  bcc bb
+dbb abcb bcadddacaddacacaaabdabc aadccccdababcbb
+adcda cbaaccc bbaadacaacdb dbbccbdb daacbcdabbddbcddc b bcbaacdd abdcab
+da dbbdabdcdbbabcdbdbcccdcbdaaabacddbdacbcdd a acddaaa  bcadcdcaabd aabb dbdd
+acdcddbdccc ddbbb bdbdddbcbccabccddadccca
+acccc cdbbad bbbabdda bcdcabddbccd   badabddcdcadbdabdbacaadc cddadb
+d  dabbcccbacabcdccad
+adadcbbacaacb ca adbdddbaaadc
+aabdbcaddcaccbabaaa daac dbacdadcbdcbada aaaacda adbbaa
+aa bbaaad aacbacdbaacdbba cabaddcaccbcbcadccddc cccaac   cdda ddbcddbd c cccaa
+c d ddbbdcdbbccbcaadca c ca abddb  dbadddcb abcbaacaddabccad cd
+bbcaadbcdbabcc daa b  dc babcb  ddcdcbbbcaaadaababbcaad cacbd db 
+cbaaccdcacbdcddcddca ddc abdd cbcccc dddadcb  da bbaddd ababcbddbdb cc 
+dbdaadddcdbc b dbbcadcbbccddadbdbcdbccd
+bdadbaabbbcdbdcdcbd acbdddaabbddcaddcccbdbadbddcdbcabbcaaddddcbbd bbdccdcadaa
+dd aadadadacbbb dcb bbb 
+ab cdccdaacddcacbda   b bc cacbb
+acbccdaabccd acdb ad cddabacba
+aabbaaabdd acdaabb acdaccd ddab
+bdb d bda cdacdcdb cdaaabbddabbdaabbdbdca acbcdc adbdad db bbbcaadccb
+b adbcccdbcbcacdccdddabbabddaddd bc  ca acddabcabdbdadcbcbd ddbdd b baab
+adad  bc bccbdbdbcaa abdbdadcdacbadb  dbdbbbdcdb abdabadbadbccc ddcabaa cdcc
+abdaaabccadacba  dac
+cac aadcccbbbaadcacbab adcbadacdaddc bcd bbddba
+cbbcaadaddbcbdad dcbac cccccbdc
+dcbdabbadabaabdcccaadbdc ccccbdacdccbdbdcadb dccaabbb d dcdbaa bcbaaaaaadd
+aaad cabb dcbcbadaccdccdbbcca b cbabaccacadaad bbaacdbbddd  bc bbcadaddcb
+db ddcc dbac  c bdabc cdb
+bbdcccddacaddcbbbaaddaddabadaabbdcdcacaccad ad
+aaad dbdcbcb dcd abdcdccdd
+b bcdcadccd aca cccda ddbccdbccdcbb
+bcdddaaabbcdbdcdcaddac cbbd cddb 
+cbacddcb abbbdddacaadbad  ddcbbacc d b bad
+aacbdc cacb dccbddbddcbdbcdbbacbbcbddcdb
+bac caabd bcddcd dddcacba da dccddcaadddaab bbdcaadbabccdd db
+cb cdcaddacdaccabcacacdcb bd dbbdddbcdcdcc
+ cabd  cdd b abcd cdaaddccdabddcbbbdadbcccdbbbbabacd
+bdaca dcbb ab bbaac ccbbcca dbdadb bcbdab ddb b
+dbddabdcbdc dc ccdba add
+cadcdaca dbbbd bbbaddcda ccbb cccdcacaacdbdcd cacccccaa bcbcdacaddadb bbdb dcc
+bcdcdcadccd dcdcddda accacaacbaa dd c  dcbccad b
+dabcbabacbbb d bcccad a ddcdbdd baccbbadbd
+bdabbd baaddacccacdabcca acccdb cccaabada bcbdbbbcbcacd bc bdbdc dbddcaabaaabbb
+bcadabab bbd cbabbadaadcc cad bdab bddbdabacddabbdc caddccabdcda a caddaab a
+bcadbbacb ddbadaadddcabcbcbaaaadddbadbad cbacc cdc bacb d bb
+cdbdaadd dd bbab dac acbcbcabd b d abaaa  ddbbaac abddcca adcba ccbaaddabb
+abddbb aadbaddbbcddbbdbcdad acbabadbc cbaddbdaccbba c
+a cdcaaaacbcdaabcbdbca daccadbaadb d
+aacabdcbbbdbcacbbddabddbc aaaccbbb baaa aabababadbabdb cbddb
+acccb c a daccb bddccdcdadcccadc cbcaadbcadaa cb
+c bcc dbdcacbb bcbdbdc acabdccddbacad dddca dcd a aabaddcdcb dcbdaacac
+c caa ccbd abbbccbabda dabcbbcaadaddbaaaa ccdbadc c caa 
+b aabbba dd dbda dcbaadaabddcbcadbcdddcbd bdac c
+bcdacd abdbcbdd dcbbd acd
+b  abaadcdba dccacbcdaaa dadcdc  daaaa
+dddcbdcccaddbdbacabadddbdaca
+bdccdaadcdcd accbcbc 
+bdddd cc c cdaccdaabcbb
+bcddac cccbdabcaba bd bccabcbaaaaaabdacbddab a a a cddbcac a 
+daabdbda dabc bab acacbdabdacb daadbadcacdaacaabaaddaaa cabddbcdbabbcdbb db cd
+abacad  bda abaacaa dc acbaadddacbdaabcababab bccddacb dc dcb aa
+acadbaaacadccdccbc da bacbdddcbba bdbdaa adacccad  da
+dbadacd bbbcdccaabbdababbcdbabcbaabcdcbbcbdbc c cadcdc
+caacbbbdcadababa baab dcdbbcabdbdcbbaa
+adda aacbddbb aacbbb  cbaacbaac ccbddbbadabb a
+bcc bbcaadaccccdbd abcaccbbb  cddabcbb cdd
+dbdcbbccdbbdddb dcdcc  d ddaccb adaabdbbbacb b  b a
+da a aacaaaad ccdaa adbbcdd adccccdbcc adc  cbddbac bbdbcbcdadac cbadddaadacd
+ccddbcdd adda dd dccdcccdcdc
+ cd dabcdbbb  bdacbab adda aacb cacb
+d adaadacabbbdbadacab bddba
+ca  cbcddaadc bc ccbbbbccdba ddc bbddd da bbaabcbcdcdddd d dd
+cab  cccbaaccad ddcabc d ddb bbcba cccdcdbbbd da ad b da daccd acbcacdaabbbdcdd
+cdbacbccadddbccbbbdbccdad cdadbcccabddacadc ddbd bb aa
+bdcdcbcbbcddba bcdccabcaabd bdcbbb dbd cadb d
+cbdacddbcacbaad d cadcada dcdbaa adbdabcbddb abbadadcdbbdbad caacdadbb ab adb b 
+ cbcac bbbbcab bbb cdcbabca cacb d bcadbdaacbbdbbccbbcdb acdbcadccdbbb
+ccabaddbbdb  accbddddbd babdbccbdba cdbcbddddcccacccdcadbc  c bcacdbbad bdbcaab
+a ddadbda ddcbbaccbdad cbbb c bbadd dbb bcb
+dbabbcaac dada abccbdbc  daabccbab adccbbba 
+bcbcad cdb c   dddbaacaccbbbcbdbb dbbacdbaa dd 
+cdbcbaa adadbbdbbbbaddd acbbbbbddaddaadaca caddbbaaaaaccabcac d a
+dcabcbcadd a dcccccacabcbdaaddc abcdbdbacdddadbabcb caaccbc b
+cdbbc aabcbdcba b caacacb abcabc
+aabcdadcdbdddbadcaccaca acbccbbcddccbcbdb bbdbbcacdabccdddcabcccdd bcda
+bdabdcbb cd baabdc b daca ac bdacd acd b dabddccdadaacdbda bc
+cddcbbbbb adccaaacadbccabd ddabdddabc dd cdbdbacaabcbabcdcdb bcac
+dbadcdc daaccbcaaddbb badbcc bad cbada ddbaacddc bbdabadadddddaabaaa
+babbacdbbabbabbdcdbcc
+ dbca ad a adaacddaabdcc aaacbcba
+aaba abbcbbccaaababccda b  bcab
+addcadcadabcdcbbacccddbdbbccdbbdddd adcabd d dbdbbcaa cadabcc caadd
+dcadcc acdbdcabadd cbdadddabbaddbbccbabbddab abd ddbb b dacaba d
+d  aaccaaaaaaabcddbcddd c
+cddaab cbdd c dbcadb
+ddd bbb bdaadbcddaabaaabaacddbacadbb adbaaccdcdbbdca dbabcb ddb
+cbbdb ccbbc dbbdc aba cdbbbccbabdaadb adbdacadcabcdbdbb aad bdb baabcdc caaaa b
+bdccbaacccabbbba a abcbcabadcd bbbdcdcaca
+dcc  cac cdbaa bbbdbaca aaad  adcbc
+bb c a daabbddbdda bd aa acdbcdcdcabc ba 
+ccddacccdbdccccddbdcaba dbbcaa aadbcdcbb   bb d   aba ac 
+dccc  c badccbb  aacd
+dacddacddbdacdcccdacba abcc dcdcdc bdcabdaa ccaaccbba  baadbadddbbdbcc
+a ba adcdccd  bcdbddabbddaacc cbcabc daabbcadbabcbcddab
+bdb bcdddbddbc  dbb abdadadbddbcaabbbaacacacccb
+ bd aabcaaccdbdbdadda  dbb
+adcbdad  bbbcabacbadd  ccbabadabcc  cacabbddcb abbdbcac 
+acada c cdcbdccbb bb cdc ddddccadbd
+ bcdabccbccabadddaabbaccdcaba  cb bb cddccbcadcda
+ bbbaaacdacddddbaabcbdbcdadbbbcbaaaacabadcac abcdacdaba cabbca caacbb
+abaabcbbddacccabb b  dc ccdbdcdcaddcbbdaaac
+ccbcccbcddcaacdbccbacc addbccacdc  a
+dcbabcadcdbd cbbbdbbbabacbadcadabbdcbacba   bbcbba dadbcbbcabb
+bddaaaca bcdb dac cad bbdcaaad adadc a
+acddabddbcaaaab cc ccbcbabcaccacacabacaa  bdbdaaddbc bbccc dccd 
+badaabaacbdcdbda dcab b
+ dcb aabccdac caba ccaddc dacccaddddab ddbd  cbcbdbdd aabac c
+c cabbdbbabccdacdcaaabdbaad cbaaddaaadaad   dbdbb c
+cdbdbbdccbdacdbdddbcbaacadcadcaccdbc daac
+ abcdcb dbb cdbdb a ddbaaadabda  bbbbbabacc 
+   cabddbbccdca bcddcdbcbbc abcdcacdcadc cdcd  aacdccbcbdba
+cbdacbabda d dacbaacababbdabcdda abdbccadaddcadcbbcb
+babbadd bdbaadcaacac acbabbc dab ca cb cabcdadaaabcdaab baaaccabaaacd  acb
+bcccbdccdcbbba adbcaccaaba ddabcabcadccb abdb
+dbbabacdcbc adbadcd aca
+aacddccaddd dcbdaadacadabc dc abdcda abcdadacbcab
+cccaba dcdbca abdabaabdbbabb
+ cadaaa acdcbbcadcdccbbd
+ccbdddcbbbbbcadacccbbdbddbcdccacdb
+bdcbaaaddabbd  ccabadbcac aaabaa cdcdbd bcdabc babbbcbcbc caab ac cdddbc
+  a a c baaa bcc bcbbbbbdaadad da baccacbbdcccadccadddcac 
+dc cbbbaac cab caccccdb  ca  abdbaccddcbacbbcccbbdbabc dbbcaabbb 
+c  cadd ccdccddccccc
+adbaaa cdaccbcdcaadccbcacdcaddcdc dccbb acdbbabcbac ab abddaddddadcdcabdbaba 
+ccbaada caaacaacdcc ddcc acabcad ccbc  adaadcdbabdad cc  cacd a d bac
+bcdabccb cd abbaddcddd abdda  acbbdcdcccccbbbdadcc a cabbb
+dadbbaccdccbadbacdbbadccb
+abdaacdbd ccbbaaaabaacdddbbcdbdacbaa cadbc bb
+a db ddcccabaccbcdcab bdbb
+bacbadcbaabbb bbbbddcaba abdc dcbba babbaaa abdabdbacdcddddbbcdad 
+cbdaa bbaaa  b acc dcacddc cddcb dc
+dacdcca d bddaaaccbbcd cddddba ad
+dbacdd dcddbbccdbdcabacc bbbddccbbbcad bbaddbcaddcbdcdb caaabdadaaad
+abbacbdacda bbddaca bcbaaadadd dac caddb  bad a bcaacddbcddcbcdcb 
+bddcaabdbddbaccdbbdc babadd dac addddd  aabacd add  dcaadbbabaadcdbba
+bcbabddccbddaa ccddbabcccaaddaddbabcba
+bbdb caacadbbabadc b b babbbbcdaa adab dbadbb  ac
+b ca abbad ddbd dadabdaaa ac acbbdcca dc
+daccbabd cbbc c bcdddacdcacbc bcca  addcddad b b  ccbc
+cddab dbabdbbcbcba addbdb ddadbadb ccddbcadbd dabdbabc c c
+bccccbddddacccddcdabadacca bacccdbaaabbbccddabcda dc bdaddbcbddaabababac ba dd 
+ac bbcdaaa bbbdddc abbcccbcbccaabcdabbcbdb db bddcac ddaab
+ccaccdddaaabb   babbad dcdac dbaddcbbcabcbcadd cc dbacbdbd
+badbadcca bcdccaabccccccbcdbcbbabcaccbdaaaadadcadb bc bdddbbbb
+caccaa addcbba abdbddddaaab dccba
+adcbdcdcdcc cbdbbcbbddabad cdabc a dbbdcbdbcbdaab
+adcaddaddcadcdd  babddbbdcbbcdda dbdadc cbbacbbccdbdbdaadadd cdd cacdb
+bac ac abcdcd aadbbdb 
+babcdabbddb cbdbccbaaacddcac caacc b aabbbdaca abacd bdcddcaaccacccac ab
+dccbadddaaa bacbcaccc aaabcc b  caccdadccadab cbcc d 
+adcaa  b aadcaac bbc  cbaaacc dcabdbb dadcdddcdcdaabaccdbbcbdb cbddacaca 
+bbcacd bcdddbaa  baacdca
+baabbcdba abdab addcacc dcbcabdabcb ddb
+cdcdaacbacad cbbadc  aabdba a d acdcc bcd cb
+cddcbcdcd aadaba addbba cbccccddcbbabccdcbbaaaccbb  c
+adbdc ddb cba  da  dbcbcababdbadbaa abbdbba aaab  aabbbdbdcacabcdc
+caa dbacd cabbbddaacdd ccdcddabbdabaadccbbc adcdaadddacdbdbdcaa bcb  cc
+cacb bbd baadbdd baabc cadcbbbccbdcaacdaba  dbd ca dcbbbcb
+dda bdcacbabcadacbabcddaddcbcacabdcdcdd dcbcccdcbab
+bcbcaaaa cdaddaccaababddaccd ddcacbddcabcdacadadccbbccadd  aad b
+bc dbcab dbcbbacbaacdda
+bdbaa cbbdcacdcababdac bcccdaacdbaadacaa bc
+cbcccdc dbba ccbdaa bbabdcdcabbdc caa acbbdaccdbd ddacd c a
+adcbdaad aadabdddabccdaac
+baacdcbaa daacaacdcaab
+cccc cdadbc  acbdaadddaaccabacabdacbcdbbdbc cd  bbdbc abdbcd bbcbbccbbb adc
+ cca adaacca  adddb ccdcadcd dccbaaa
+cdb dabadcb abacaa acabcdacddacbdcdbdbdbbbbaa dc ccdcacccc acaba
+  abacdbdccccdbd acabaabdbbaaccd 
+aacdccccdcdcacaddddaabdcbddacb adbaba acacccaadbbdccaabbb abaa ccabda 
+ b dabdbaacb addbbcacdcddab ad ca dddccabcabcb d aa bcaccd dd bd
+cccadbbda dbdbbbbbdb dcbcdb cadcabcdbacdbb aadac  ccbcdca dacddc  c
+ccddbcdd ccdabcabbababa aadc acc d
+aaabccbccdd  c cdcaabdddbdbb aaabaaddbcabcdbcdd dabc cbbcddcdd bcaddcdca daa
+d bdabcddd accdacabcacad bbccacaad bdddadbcbd b
+ cbbcba ccba d cb acac dddaacddbaabab
+acd  caaddbcdbdcc cdca bcdcdadaa acac
+acbdbcbddbc cacb  abcddd ddcbacdac adbdbcabc bdabc c
+acdabcddabdd daacd  acbdaccabbddcbcbcdd
+accad bcada ddcc  cdb adb daca bbcacaabbcbc aadbdbddd dcbcbdcdacdaadddc dddadd
+ ac c ddaba daadddcb cbbaabac bbaaadb da adbbd
+cbbdcbcbc adbccbcdcbabdbaac
+cadbb bcdacc b acbbb
+cabbacabcad b b aaccbaabdcbadabc a db dcc
+cccad d  dbddacccc bcabaaabacdbbcd ddc ccacbc ccb   dcacbc aaaa bbc
+adbadbdbaadbcbbb baadbbadb bd dd  acaacada bacdbbaddcabb ccbaba adbdcc
+bcdbdbdcbbdcadcbacadcaaddbbbbbbccc d  cbdaadd bddcbb abacbcc bcbc 
+dd bddda cca dddbaccacbcdbdcbcabab ddccbc
+dcdcbbddbddbdaaa ddb dcadbd cdccddcd cadabcaacddbdac c aa ca ac
+adcbcdaccbdacaadacacbbaacbb babdc baa cacab ddb abaab
+bdbcaaaaaccddadcdaddbcdbabadbbacccabbddabcccbcb babdacabdbbabd db ab bdca adcccb
+bcbdbbcdadc dabbbcbbabc c  ddabbcbcbb daccb cbbdad aaabbcbadabaadcdcddacbb
+aca da ba bcbabaababbcbcddcadbbdbc c abd
+cddaacacdcdba cbca acc  ddbddbcbcaadd  cbcc c cbddacaddddcdccccd ccc bbcabaddd
+bbbdc bcbbdbbbbcca dbaadbbcddd  cddd 
+cababaabaddccab daddaabdbabcd ac adbcdbbbcdacadacdc bdddac baacaabbcbcccad
+dcdaa cbbcda dccabdbcccccc adcacabcbba dabdcbda
+b bbb  ddcdbdcdddbaaacdcdddbbcdbbbdaadadad bbbcbbddaddbb 
+bbbbdabbaa dacbdbcbdccaaab
+ccdcdbdbbdbcadaaabcbdab  cdc cddb cdaccdbcaddd  dacaaadac cbcabbbdcbdbcc
+ddddcbadacaaa c dacdbbda  abbaad
+ccaadbbdabbcbc caabacc ddb adabc dbadcccdabbbd
+ada dabdaa dababbdbbba adbb abadadbbcb ccbdcadca b bcbccbabd
+ bdacbbbccbbbccc bcdbca
+ddb  ccaddbadbccaaccd abcccaddc dabbc
+ cdac dccdccda cac ababb cabc aa acdbacdcbccac 
+ cd b aaadcaacdcdbcabadadad acaa
+d abaaacb acbbbac abcbccdd dbb abb cddbbc caddbaca dcd  
+acbca c dddc ca aac ccbacacccbcaadabcdcbaa bd acdddb cb dc 
+d b dddaababcc adcaabaad aabacdbadadbaccabcdcdd
+baabbcbdbdbbcbcabbadbd bacb bcca  cabaad c bca
+baabadbac cbd cccc ddbccabbbbd  bbabcddccbaadddabdaddaacaabbaa acbdcdab
+dbdddacdccdab dcdacdbaad
+ddaaa acbc cd dbcddadabac d bb cccba
+dcdddadcad cbaac db bcdbcaccbaacccdaaacd cbbdcbdbbabcba bda baa cdd bddbca
+abaddbaabbacbbbbbaccbabadaccdaabca bdcd bbdb caddcbdadca addabccda bcacbcc
+daddaaacaacdabdbacaadda dbcdbad ada b aac aacda  bdccbb bbdd  abcdddac ad ddc
+acddbddc cbd  dadd cdccabaca cdacbdbabc cacc
+bbcbbab daddbc adcbda
+c ddabdacbddbccabbd a abccbbadc
+cdb acaca baadbac  aaa bbbdc 
+adabdccc cc baabcccc adacbabdbdabdcbbb cdadc bacaabccabdddbdd bcadda ddcaacab
+accaaacddacbadcccdbcdcdbd bcd
+acacdc  bbcacab c dddbacaba d accbbccdad
+ d cbdba  dc dd baaaaaccbdb dabbbccbdbaadbdcddc adadc bb bbacc bbc ddddbaddaaa
+abddcbbbdbacd   cadbabcaadbaaccbcbdaaabddacacbdabbccdd dbaabbc accbbbdbccb
+bbab b aaccbb dcdccaaccdbbccaba baccddc acaddbdadcba bccadcda ccc ba
+bbacdacdcaccbdda dacccbbd   addbcbaa caa ca d bb acbaaccacdbbb ca adda addadd
+aabccdbcdaadbdbbadcbdbdbbcdcbcbabdcdbacbac cc accbaac cdcdb bcdccdcaada
+aaabdadc cbbbca baddddad bddaaaadddbcaccac cad dccd  c dcbbbcb cccc
+adddadabdabbbcddccdcabcc dbadaccbbbcbacab
+bdabcd bacaabcbcaccdcaacada
+dbddbdc acbaa bcca ccbd
+ d cbcbdbababccbd dccbac cddb
+dccdbcbcbdaddacdd cddcbd babca cd abb b bddbcda cd c cdbbbcac cbcdccbadaaadbcab
+aacdcaddadbddac bbdbddba aaaadadacdad ddb bdaaadbdcddbbadcbc
+cddaa b bcadddaacc a
+aabaacddbbdcbaabbbabaacbad cdcccadddddcccd
+ a dc ddbccba acddccbadcabbdbb abbaaaab
+abcc cdcdb bcbabaabbc
+cbdbbacacca ababdb c  daabbd bdcbbc ccdcbada ad cc aaaa bbd cddaac adabadabd
+adcabcddc bcbbc addabda ddbaa aaab dcddad adba aacbddabcdcbcdbdadd
+cdb adaaa cacb a dcbcaa
+bcdbd cdbdcbdbbddcdabbddcbbbcbdbabcdbcca bbacbccaabda dbbcbbc bbca
+cba d bcdbdbdbacddddcbba
+cbbdcdbadbbcdba acaaaaadcbbbbacbaccabcba cb c dcaacdbacbdbacd 
+cbabccc bad ac dc  ac bcaba a ddb dccdcbcda adabcc dbadbdbbdcdba
+bdc cccacbcd cabdcdabadcdadb c cda abaad
+bdcbddba caa cccddabacab  adcddcabbdababcab cbbddcca bdaa aca
+cbcd cdababdbdbadaadd   dacbcad bd cbcb baac
+ccadbacddddddadcccdbbdabadad abc bc bbbaccb cbbdaabddbca acacadbcabccd a abbacdc
+b aaabbb bdab a dddbdcad aadcadda
+ccbdabbdbab bdaabcd 
+ b cdcb caaa a aaacaad dacdc  acadad
+dacbabbcaabac accdadbaabcacaddbc
+  accbcabbabccd bacacaddbbadad ab 
+bcbcacbbbadbbaba badbbacbda
+aacdbaadbcbab db adbdcccdadaabdcccb dbbddbcdbddcababadcbadbdbcbbcab 
